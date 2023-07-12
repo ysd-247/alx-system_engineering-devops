@@ -24,6 +24,10 @@ file=(
 "20-hiago"
 "21-reverse"
 "22-users_and_homes"
+"101-gifs"
+"102-acrostic"
+"103-the_biggest_fan"
+"100-empty_casks"
 )
 
 for file in "${file[@]}"
